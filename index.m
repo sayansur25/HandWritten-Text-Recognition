@@ -1,7 +1,7 @@
 close all
 clear
 clc
-addpath(genpath('C:\Users\Sneharun\Downloads\MatlabCentralUpload\MatlabCentralUpload\testImages'))
+addpath(genpath('C:\Users\Sneharun\Desktop\HandWritten-Text-Recognition\testImages'))
 
 load('network.mat');
 
